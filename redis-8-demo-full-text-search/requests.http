@@ -1,0 +1,7 @@
+GET http://localhost:8080/search/Harry P
+###
+GET http://localhost:8080/search?text=ultron
+###
+GET http://localhost:8080/search?text=ultron&cast=Josh Brolin, Mark Ruffalo
+###
+GET http://localhost:8080/search?text=ultron&year=2015
